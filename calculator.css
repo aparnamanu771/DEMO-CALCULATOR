@@ -1,0 +1,43 @@
+body{
+ 
+
+ 
+}
+.container{
+    max-width: 400px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 0px;
+    background-color: rgb(231, 231, 231);
+    border-radius: 20px;
+    overflow: hidden;
+}
+.header{
+    background-color: red;
+    text-align: center;
+    padding: 25px;
+    padding-bottom: 10px;
+}
+.header h1{
+    color: #ffffff;
+}
+.header .form-control{
+    height: 60px;
+    
+}
+.layers4{
+    padding: 25px;
+}
+.layers4 .btn{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.layers4 .red{
+    background-color: red;
+    color: #ffffff;
+}
